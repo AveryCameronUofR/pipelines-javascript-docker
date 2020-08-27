@@ -1,3 +1,5 @@
+# Explanation
+Repository used for CICD Test with Azure Pipelines in DevOps for Group Project in ENSE 475 Software Testing
 
 # Contributing
 
